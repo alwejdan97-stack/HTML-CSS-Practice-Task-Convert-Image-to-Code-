@@ -22,6 +22,4 @@ The emphasis is on **layout accuracy and styling precision**, not on exact conte
 - Pixel-level attention to spacing and alignment
 - Clean and reusable CSS structure
 
----
 
-## 📁 Project Structure
